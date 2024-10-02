@@ -34,4 +34,4 @@ To get a local copy of this project up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CODSOFT.git
+   git clone https://github.com/amritakaith1230/CODSOFT
